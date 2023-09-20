@@ -1,3 +1,6 @@
+![img.png](img.png)
+Conversation Coach is an MVP web application powered by ChatGPT. Its primary goal is to assist socially anxious individuals in practicing their conversation skills within a safe environment. It includes a special feature that suggests ways to continue the conversation.
+
 
 # Getting Started
 
